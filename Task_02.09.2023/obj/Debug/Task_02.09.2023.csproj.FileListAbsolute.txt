@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\bin\Debug\Task_02.09.2023.exe.config
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\bin\Debug\Task_02.09.2023.exe
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\bin\Debug\Task_02.09.2023.pdb
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\obj\Debug\Task_02.09.2023.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\obj\Debug\Task_02.09.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\obj\Debug\Task_02.09.2023.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\obj\Debug\Task_02.09.2023.exe
+C:\Users\ASUS\Desktop\C#_dersleri\Task_02.09.2023\Task_02.09.2023\obj\Debug\Task_02.09.2023.pdb
